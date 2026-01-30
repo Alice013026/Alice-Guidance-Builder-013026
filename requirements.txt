@@ -11,3 +11,6 @@ altair
 httpx
 python-docx
 reportlab
+pytesseract
+pdf2image
+pillow
